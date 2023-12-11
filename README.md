@@ -1,3 +1,3 @@
 # Jenkins
 
-# Creating Jenkins machine with script . Use it as root
+# Creating Jenkins machine with script . Use it as root in linux version CentOS, Amazon Linux 2, RedHat,....
